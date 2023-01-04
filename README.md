@@ -1,7 +1,7 @@
 ## Portfolio
 
 ## Github URL 🌐
-https://github.com/jcisne2/portfolio
+https://github.com/jcisne2/portolio
 
 ## Table of Contents 🗒
 
